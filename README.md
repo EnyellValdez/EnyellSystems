@@ -1,102 +1,112 @@
 <div align="center">
 
-# 👋 Hola, soy Enyell
+# ⚡ Enyell Valdez (EnyellRD)
+### 🚀 Full-Stack Software Engineer & Systems Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Web+%E2%80%A2+PWA+%E2%80%A2+Desktop+Apps;Backend+%E2%80%A2+APIs+%E2%80%A2+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Web+Applications;Building+Low-Level+Windows+System+Tools;Developing+Advanced+Automation+Bots;Next.js+%E2%80%A2+C%23+.NET+%E2%80%A2+Python+%E2%80%A2+Node.js)](https://git.io/typing-svg)
 
-**Full-Stack Software Developer focused on building complete applications — from modern interfaces and PWAs to desktop software, backend systems, APIs, security and server infrastructure.**
+**Transitando la línea entre el desarrollo web de vanguardia y la ingeniería de software a bajo nivel.**
+
+<p align="center">
+  <a href="https://github.com/EnyellRD">
+    <img src="https://img.shields.io/badge/C%23-141414?style=for-the-badge&logo=c-sharp&logoColor=239120" alt="C#">
+  </a>
+  <a href="https://github.com/EnyellRD">
+    <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  </a>
+  <a href="https://github.com/EnyellRD">
+    <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  </a>
+  <a href="https://github.com/EnyellRD">
+    <img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🧠 Sobre Mí
-
-Desarrollo soluciones completas, desde la interfaz hasta la infraestructura. Trabajo con aplicaciones web modernas, PWAs, software de escritorio para Windows, APIs, servidores, bases de datos, autenticación y seguridad aplicada.
-
-Me gusta construir proyectos completos desde cero: arquitectura, frontend, backend, lógica, diseño, integración de APIs, seguridad, despliegue y optimización.
-
-<div align="right">
-  <i><b>By Enyell Dev</b></i>
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<table>
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="33%">
-      <b>💻 Lenguajes</b><br><br>
-      <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br>
-      <img src="https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=E34F26" /><br>
-      <img src="https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    <td width="50%" valign="top">
+      <h3>🧠 Filosofía de Desarrollo</h3>
+      <p>No me limito a un solo entorno. Construyo desde <b>Interfaces Web Ultra-Rápidas</b> con Next.js hasta <b>Herramientas Nativas de Windows</b> en C# que interactúan con APIs de bajo nivel y el registro del sistema.</p>
+      <p>Mi enfoque es crear arquitecturas limpias (MVVM, MVC), escalables y con interfaces de usuario que destaquen por su fluidez y diseño premium.</p>
     </td>
-    <td valign="top" width="33%">
-      <b>🌐 Web & Frontend</b><br><br>
-      <img src="https://img.shields.io/badge/PWA-141414?style=for-the-badge&logo=pwa&logoColor=5A0FC8" /><br>
-      <img src="https://img.shields.io/badge/Responsive-141414?style=for-the-badge&logo=minutemailer&logoColor=00897B" /><br>
-      <img src="https://img.shields.io/badge/Web_APIs-141414?style=for-the-badge&logo=postman&logoColor=FF6D00" />
-    </td>
-    <td valign="top" width="33%">
-      <b>⚙️ Backend & APIs</b><br><br>
-      <img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=node.js&logoColor=339933" /><br>
-      <img src="https://img.shields.io/badge/Firebase-141414?style=for-the-badge&logo=firebase&logoColor=DD2C00" /><br>
-      <img src="https://img.shields.io/badge/REST_API-141414?style=for-the-badge&logo=json&logoColor=009688" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <b>🖥️ Software de Escritorio</b><br><br>
-      <img src="https://img.shields.io/badge/Windows-141414?style=for-the-badge&logo=windows&logoColor=0078D4" /><br>
-      <img src="https://img.shields.io/badge/Desktop_Apps-141414?style=for-the-badge&logo=electron&logoColor=5865F2" /><br>
-      <img src="https://img.shields.io/badge/System_Tools-141414?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-    </td>
-    <td valign="top" width="33%">
-      <b>🛡️ Seguridad</b><br><br>
-      <img src="https://img.shields.io/badge/Authentication-141414?style=for-the-badge&logo=auth0&logoColor=FF4081" /><br>
-      <img src="https://img.shields.io/badge/Data_Protection-141414?style=for-the-badge&logo=springsecurity&logoColor=1976D2" /><br>
-      <img src="https://img.shields.io/badge/Secure_APIs-141414?style=for-the-badge&logo=owasp&logoColor=white" />
-    </td>
-    <td valign="top" width="33%">
-      <b>🔧 Infraestructura</b><br><br>
-      <img src="https://img.shields.io/badge/Servers-141414?style=for-the-badge&logo=linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PowerShell-141414?style=for-the-badge&logo=powershell&logoColor=5391FE" /><br>
-      <img src="https://img.shields.io/badge/Git_&_GitHub-141414?style=for-the-badge&logo=github&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>💼 Áreas de Expertise</h3>
+      <ul>
+        <li>🌐 <b>Frontend Avanzado:</b> React, Next.js, Radix UI.</li>
+        <li>🖥️ <b>Software de Escritorio:</b> C#, WPF, MVVM, Win32 APIs.</li>
+        <li>⚙️ <b>Backend & APIs:</b> Node.js, Express, Integración REST.</li>
+        <li>🤖 <b>Automatización:</b> Python (Tkinter), Bots, Scraping.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🏆 Proyectos VIP Destacados
 
-*Aquí muestro mi capacidad para desarrollar desde la interfaz hasta la infraestructura en múltiples plataformas.*
+> *Una muestra de mi capacidad multiplataforma, desde optimización de hardware hasta plataformas web.*
 
-| Proyecto | Plataforma / Área | Descripción |
-| :--- | :---: | :--- |
-| **SocialHD** | `PWA` `Backend` | Plataforma progresiva y backend optimizado. |
-| **NVBoost** | `Windows` `System` | Herramienta nativa para rendimiento de sistema. |
-| **Nexora** | `Web App` | Aplicación web moderna, escalable y dinámica. |
-| **NeuroPass** | `Desktop` `Security`| Gestor de contraseñas avanzado con seguridad local. |
-| **BarberTime**| `Full-Stack` | Sistema completo de reservas, panel y base de datos. |
-| **Monix** | `Multimedia` | Herramienta especializada en gestión de medios. |
-
-> 💡 *Sustituye las descripciones breves por los enlaces a tus repositorios en la versión final.*
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ NVBooster</h4>
+      <p><b>Stack:</b> <code>C#</code> <code>.NET WPF</code> <code>Win32 API</code></p>
+      <p>Herramienta avanzada nativa para Windows con arquitectura MVVM y UI personalizada. Manipula servicios del sistema y prioridades de CPU para maximizar el rendimiento de la GPU y reducir la latencia en tiempo real.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 X78 Architecture</h4>
+      <p><b>Stack:</b> <code>Node.js</code> <code>Web</code> <code>Admin Panel</code></p>
+      <p>Plataforma Full-Stack que implementa un panel de administración desacoplado, demostrando diseño de sistemas escalables, manejo seguro de bases de datos y arquitectura robusta lado servidor/cliente.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 BOTP Core</h4>
+      <p><b>Stack:</b> <code>Python</code> <code>Tkinter</code> <code>Automation</code></p>
+      <p>Software de automatización (Bot) desarrollado con una interfaz gráfica nativa. Diseñado para manejar flujos de trabajo complejos y procesamiento de datos de manera eficiente y autónoma.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 qrGPT</h4>
+      <p><b>Stack:</b> <code>Next.js</code> <code>React</code> <code>Radix UI</code></p>
+      <p>Aplicación web moderna que integra componentes de UI de última generación para ofrecer una experiencia de usuario (UX) reactiva, rápida y de nivel empresarial.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
+### 🛠️ Arsenal Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,react,nextjs,nodejs,html,css,git,github,windows&perline=13" />
+</div>
+
+<br>
+
+---
+
+### 📊 Impacto y Estadísticas
+
 <div align="center">
 
-### 📊 Mis Estadísticas
+  <img src="https://github-readme-stats.vercel.app/api?username=EnyellRD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnyellRD&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
 
-<img src="https://github.readme-stats.vercel.app/api?username=Enyell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enyell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="160" alt="Top Languages" />
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=EnyellRD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
-<br><br>
+  <br><br>
 
-<!-- Contador de visitas -->
-<img src="https://profile-counter.glitch.me/Enyell/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/EnyellRD/count.svg" alt="Visitors" />
 
+</div>
+
+<div align="right">
+  <i>Ingeniería de Software de Alto Nivel 🚀</i>
 </div>
